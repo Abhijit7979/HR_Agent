@@ -20,7 +20,8 @@ export GROQ_API_KEY="your_key_here"
 # 3) Run app
 streamlit run app.py
 ```
-
+## Graph workflow 
+![](sql_graph.png)
 Then open the provided local URL in your browser. Type a question like:
 
 - How many rows are there?
